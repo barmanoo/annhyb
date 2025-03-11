@@ -70,3 +70,10 @@ Sequence statistics
 ORF finding
 
 Crypt/decrypt sequence for storage security
+
+
+## Various
+
+
+AnnHyb was compiled with Borland® Delphi® for Microsoft® Windows™ (Version 10.0.2288.42451)
+In order to compile sources you must install the RX library v. 2.75 or sup for Delphi 
