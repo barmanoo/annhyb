@@ -72,6 +72,23 @@ ORF finding
 Crypt/decrypt sequence for storage security
 
 
+## Bibliography
+
+ T.F. Smith and M.S. Waterman. Identification of common molecular subsequences.
+J. Mol. Biol., 147:195-197 (1981)
+
+Breslauer K.J., Frank R., Blocker H and Marry L.A. Predicting DNA duplex stability from the base sequence
+PNAS, 83:3746-3750 (1986)
+
+Allawi HT, SantaLucia J Jr. Thermodynamics and NMR of internal G.T mismatches in DNA.
+Biochemistry, 36(34):10581-94 (1997)
+
+Cantor C.R., Warshaw M.M., Shapiro, H.
+Biopolymers, 9:1059-1077 (1970)
+
+Howley, P.M., Israel, M.F., Law, M.F., and Martin, M.A.
+J. Biol. Chem., 254:4876-83 (1979) 
+
 ## Various
 
 
